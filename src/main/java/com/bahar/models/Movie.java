@@ -16,6 +16,7 @@ public class Movie {
 	private int year;
 
 	public Movie() {
+		//no need
 	}
 
 	public Movie(String title, int year) {
